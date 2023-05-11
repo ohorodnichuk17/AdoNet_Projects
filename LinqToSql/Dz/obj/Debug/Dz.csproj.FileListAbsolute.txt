@@ -1,0 +1,8 @@
+D:\source\repos\LinqToSql\Dz\bin\Debug\Dz.exe.config
+D:\source\repos\LinqToSql\Dz\bin\Debug\Dz.exe
+D:\source\repos\LinqToSql\Dz\bin\Debug\Dz.pdb
+D:\source\repos\LinqToSql\Dz\obj\Debug\Dz.csproj.AssemblyReference.cache
+D:\source\repos\LinqToSql\Dz\obj\Debug\Dz.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\LinqToSql\Dz\obj\Debug\Dz.csproj.CoreCompileInputs.cache
+D:\source\repos\LinqToSql\Dz\obj\Debug\Dz.exe
+D:\source\repos\LinqToSql\Dz\obj\Debug\Dz.pdb

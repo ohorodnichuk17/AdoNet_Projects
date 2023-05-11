@@ -1,0 +1,12 @@
+D:\source\repos\AdoNet2\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\source\repos\AdoNet2\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\source\repos\AdoNet2\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\source\repos\AdoNet2\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

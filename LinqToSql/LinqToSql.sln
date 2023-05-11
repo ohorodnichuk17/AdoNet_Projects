@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSql", "LinqToSql\LinqToSql.csproj", "{8A46B369-CAF0-4D81-8D18-8182683FF431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz", "Dz\Dz.csproj", "{836C3A6C-0A25-4ACD-AF72-77726C4EEEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A46B369-CAF0-4D81-8D18-8182683FF431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A46B369-CAF0-4D81-8D18-8182683FF431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A46B369-CAF0-4D81-8D18-8182683FF431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A46B369-CAF0-4D81-8D18-8182683FF431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836C3A6C-0A25-4ACD-AF72-77726C4EEEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836C3A6C-0A25-4ACD-AF72-77726C4EEEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836C3A6C-0A25-4ACD-AF72-77726C4EEEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836C3A6C-0A25-4ACD-AF72-77726C4EEEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B25187-B307-48D5-8F4A-AC0E6397D442}
+	EndGlobalSection
+EndGlobal

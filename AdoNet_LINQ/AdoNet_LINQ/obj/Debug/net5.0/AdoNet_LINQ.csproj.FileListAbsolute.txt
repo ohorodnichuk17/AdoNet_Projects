@@ -1,0 +1,16 @@
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.exe
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.deps.json
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.runtimeconfig.json
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.runtimeconfig.dev.json
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.dll
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\bin\Debug\net5.0\AdoNet_LINQ.pdb
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.csproj.AssemblyReference.cache
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.AssemblyInfoInputs.cache
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.AssemblyInfo.cs
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.csproj.CoreCompileInputs.cache
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.dll
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\refint\AdoNet_LINQ.dll
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.pdb
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\AdoNet_LINQ.genruntimeconfig.cache
+D:\source\repos\AdoNet_LINQ\AdoNet_LINQ\obj\Debug\net5.0\ref\AdoNet_LINQ.dll
